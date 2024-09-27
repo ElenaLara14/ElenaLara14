@@ -1,16 +1,25 @@
-## Hi there 👋
+¡Hola! Soy Elena 👋
 
-<!--
-**ElenaLara14/ElenaLara14** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+¡Bienvenidos a perfil de Github!
+Tengo gran experiencia en recursos humanos, sobre todo en selección de personal, lo combino con mi otra pasión, LOS DATOS, por ello me he formado como **analista de datos**, con un enfoque en la limpieza, transformación y visualización.
+Puedo aportar más de 10 años de experiencia gestionando perfiles técnicos IT e Ingeniería y optimizando estrategias de contratación, sobre todo para aportar a departamentos de People Analytics, donde ambas pasiones, talento y datos, combinan a la perfección.
 
-Here are some ideas to get you started:
+## 🛠️ Habilidades
+🌱 Actualmente creciendo y aprendiendo en el mundo del análisis de datos
+👩‍💻 Experiencia en:
+Python 🐍
+MySQL 🗄️
+Tableau 📊
+Power BI 💡
+Jupyter Notebook 📒
+🔧 ¡Y un montón de conocimientos en Git, GitHub, Virtualstudio!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 💼 **Recursos Humanos:** Gestión de equipos, Employer Branding, HR Analytics.
+- 🌍 **Entornos Multiculturales:** He trabajado en proyectos internacionales y gestionado equipos globales.
+  
+## 🔗 Conéctate conmigo
+
+- [LinkedIn](https://www.linkedin.com/in/elena-lara-alguacil/)
+- [Correo](mailto:elena.lara.alguacil@gmail.com)
+
+¡Gracias por visitar mi perfil! 🚀
