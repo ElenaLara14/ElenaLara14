@@ -17,7 +17,7 @@ Tengo gran experiencia en recursos humanos, sobre todo en selección de personal
 
 ## 🔗 Conéctate conmigo
 
-- [LinkedIn]((https://www.linkedin.com/in/elenalara/)
+- [LinkedIn](https://www.linkedin.com/in/elenalara/)
 - [Correo](mailto:elena.lara.alguacil@gmail.com)
 - 
 ¡Gracias por visitar mi perfil! 🚀
